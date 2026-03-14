@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   preserveAspectRatio="none"
+   width="5632.4326"
+   height="3332.9998"
+   id="svg2"
+   version="1.1">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3755">
+      <stop
+         style="stop-color:#434e52;stop-opacity:1;"
+         offset="0"
+         id="stop3775" />
+      <stop
+         style="stop-color:#434e52;stop-opacity:1;"
+         offset="0.68426597"
+         id="stop3773" />
+      <stop
+         id="stop3777"
+         offset="0.68426597"
+         style="stop-color:#f2f2f2;stop-opacity:1;" />
+      <stop
+         id="stop3763"
+         offset="1"
+         style="stop-color:#f2f2f2;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient3755"
+       id="linearGradient3761"
+       x1="288.81705"
+       y1="188.07501"
+       x2="347.70605"
+       y2="506.32846"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(6.2549592,0,0,17.759924,-2250.0273,-11536.753)" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="matrix(-1,0,0,1,8221.9004,1377.849)">
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient3761);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+       id="rect2985"
+       width="3332.9998"
+       height="5632.4326"
+       x="-1955.1508"
+       y="-8221.9004"
+       transform="matrix(0,-1,-1,0,0,0)" />
+  </g>
+</svg>
